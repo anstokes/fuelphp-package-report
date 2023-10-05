@@ -1,7 +1,7 @@
 {
-	"name": "anstech/rest",
-	"description" : "FuelPHP 1.x REST Module",
-	"type": "fuel-module",
+	"name": "anstech-fuelphp/report",
+	"description" : "FuelPHP 1.x Report Package",
+	"type": "fuel-package",
 	"homepage": "https://anstech.co.uk",
 	"license": "MIT",
 	"authors": [
